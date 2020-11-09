@@ -1,0 +1,145 @@
+h1 {
+ background-color:#004175;
+ color: white;
+ padding: 40px;
+ border: #89DEEF;
+}
+
+.flexbot-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexbeans {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+.flexzelda {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+}.flexbaby {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+.flexbot-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flextom {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+.flexmarco {
+    width: 350px;
+    margin: 10px;
+   
+    
+}
+
+.flexshacleton {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+.flexbot-container-3 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexmidge {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+.flexladybird {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+.flexmina {
+    width: 350px;
+    margin: 10px;
+    
+    
+}
+
+li {
+    display: inline-block;
+    background-color: lightskyblue;
+    margin: 3px 3px;
+    border-radius: 20%;
+    padding: 3px;
+    
+}
+
+.flexbot-container-4 {
+    display: flex;
+    flex: 1 1 auto
+}
+
+footer {
+    margin: 200px;
+}
+
+.donate {
+    text-align: center;
+    border: black;
+    border-style: solid;
+    width: 220px;
+    height: 220px;
+    padding: 10px;
+    line-height: 220px;
+    color: white;
+    background-image: linear-gradient(#A6A9F0) ;
+    background-position-x: center;
+    background-size: 300px 250px;
+    background-image: url(/Users/loganrobinson/momentum_projects/Homework/css--dog-adoption-loganrobinson315/starter_files/images/donate.jpg);
+}
+
+
+.volunteer {
+
+    text-align: center;
+    border: black;
+    border-style: solid;
+    width: 220px;
+    height: 220px;
+    padding: 10px;
+    line-height: 220px;
+    background-image: url(/Users/loganrobinson/momentum_projects/Homework/css--dog-adoption-loganrobinson315/starter_files/images/volunteer.jpg);
+    background-size: 300px 250px;
+}
+
+.location {
+    text-align: center;
+    border: black;
+    border-style: solid;
+    width: 220px;
+    height: 220px;
+    padding: 10px;
+    line-height: 220px;
+
+    background-image: url(/Users/loganrobinson/momentum_projects/Homework/css--dog-adoption-loganrobinson315/starter_files/images/location.png);
+    background-size: 220px 220px;
+    
+    
+}
